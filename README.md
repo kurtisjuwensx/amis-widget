@@ -1,4 +1,4 @@
-# amis-widget
+# test-widget
 > 开发amis自定义组件的工具集（支持react、vue2.0和jQuery技术栈）
 - 提供注册amis组件和amis-editor插件的方法；
 - 目前支持的技术栈：jQuery、vue2、react，vue3.0技术栈在[vue3-amis-widget](https://github.com/aisuda/amis-widget/tree/feat-vue3)中支持；
@@ -8,7 +8,7 @@
 - registerRendererByType: 根据type类型注册 amis普通渲染器、amis表单渲染器、amis表单控件渲染器
 - registerAmisEditorPlugin: 注册 amis-editor 插件
 
-### amis-widget 3.0 版本依赖说明
+### test-widget 3.0 版本依赖说明
 - 2.0 版本支持 amis 和 amis-editor 的任何版本；
 - 3.0.0 以上版本需要 amis 2.5.2-beta.0 以上版本， amis-editor 5.2.1-beta.32 以上版本。
 
