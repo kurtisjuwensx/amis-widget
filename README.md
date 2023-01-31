@@ -1,4 +1,4 @@
-# test-widget
+# my-widget
 > 开发amis自定义组件的工具集（支持react、vue2.0和jQuery技术栈）
 - 提供注册amis组件和amis-editor插件的方法；
 - 目前支持的技术栈：jQuery、vue2、react，vue3.0技术栈在[vue3-amis-widget](https://github.com/aisuda/amis-widget/tree/feat-vue3)中支持；
